@@ -1,0 +1,39 @@
+.root {
+    -fx-background-color: #4A7A7A;
+    -fx-padding: 20;
+}
+.grid-pane {
+    -fx-background-color: #3B6363; 
+    -fx-padding: 15;
+    -fx-background-radius: 10; 
+}
+.title {
+    -fx-font-size: 16px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #FFFFFF;
+    -fx-padding: 0 0 10 0;
+}
+.label {
+    -fx-font-size: 13px;
+    -fx-text-fill: #EAEAEA;
+}
+.button {
+    -fx-background-color: #FFE4C4;
+    -fx-background-radius: 5;
+    -fx-font-weight: bold;
+    -fx-text-fill: #2F4F4F;
+}
+.button:hover {
+    -fx-background-color: #FFD39B; 
+}
+.table-view {
+    -fx-background-radius: 8;
+    -fx-background-color: transparent;
+}
+.table-view .column-header {
+    -fx-background-color: #3B6363;
+}
+.table-view .column-header .label {
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+}
