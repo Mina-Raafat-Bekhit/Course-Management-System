@@ -11,7 +11,7 @@ A JavaFX desktop application with OracleDB built for university course administr
 * **Modernized UI Architecture:** Structured layouts separating input forms from operational triggers, styled with customized CSS layers for clear visual boundaries.
 # Database
 in the application i use a relational database (Oracle) to store course data by
-* Create a database named database_name (assigned in  dbcon class).
+* Create an oracle database named DB207 (assigned in  dbcon class).
 * Execute the SQL queries provided in the Database (SQL code).txt file to create the courses table.
 * **Language used** :- Java (OOP Principles) 
 * **Framework** :- JavaFX (UI , Layout)
